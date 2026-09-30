@@ -152,6 +152,7 @@ Detail: [`02_kpi_definitions_v2.1.md`](02_kpi_definitions_v2.1.md), sections 1 a
 | [`sql_01_staging.sql`](sql_01_staging.sql) | Raw → staging: cleaning rules and rejection tables |
 | [`sql_02_dimensions_and_facts_postgres.sql`](sql_02_dimensions_and_facts_postgres.sql) | Staging → warehouse: star schema build |
 | [`sql_03_business_queries.sql`](sql_03_business_queries.sql) | Business questions answered directly in SQL |
+| [`NorthBay_Commercial_Reporting.pbix`](NorthBay_Commercial_Reporting.pbix) | Final Power BI report and data model |
 | [`images/`](images/) | Report page screenshots |
 
 ---
